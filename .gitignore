@@ -1,0 +1,7 @@
+# Arquivos e diretórios gerados por pacotes ou dependências
+node_modules/
+package-lock.json
+
+# Arquivos de configuração específicos do ambiente
+config.json
+discloud.config

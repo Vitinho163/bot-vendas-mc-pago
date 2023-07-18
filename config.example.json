@@ -1,0 +1,5 @@
+{
+  "token": "tokenBot", 
+  "prefix": "!",
+  "access_token": "AccessTokenMercadoPago"
+}
