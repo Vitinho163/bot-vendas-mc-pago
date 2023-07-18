@@ -27,12 +27,12 @@ O bot oferece as seguintes funcionalidades:
 
 1. Clone o repositório do GitHub em seu diretório de preferência:
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Vitinho163/bot-vendas-mc-pago
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd seu-repositorio
+cd bot-vendas-mc-pago
 ```
 
 3. Instale as dependências necessárias utilizando o NPM:
